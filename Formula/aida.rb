@@ -2,7 +2,7 @@ class Aida < Formula
   desc "Run Spark applications in the Cloud from the command line"
   homepage "https://www.aidalabs.io/docs"
   url "https://cdn.aidalabs.info/aida-v0.0.6.tar.gz"
-  sha256 "afa5ba8477491f4e2cf2707c9ebde3fe40e98c1d7fc42da521af161f8e22c166"
+  sha256 "9ad514c82fe41eeab9ecd3f25489c70d4a4648ef42ea1570ab4b0728d54c9e81"
   # depends_on "cmake" => :build
 
   def install
